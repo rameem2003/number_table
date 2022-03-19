@@ -7,6 +7,8 @@ namespace table_of_number
         public static void Main()
         {
             Console.WriteLine("<<<< Multiplication Table >>>>");
+
+
             Console.Write("Enter the number for know the multiplication table: ");
             int n = Convert.ToInt32(Console.ReadLine());
 
